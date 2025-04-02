@@ -1,0 +1,70 @@
+---
+title: "Lista de Exercícios – Unidade 2"
+output: html_document
+---
+
+<br>
+<br>
+<br>
+
+#### 1) Os diâmetros de oito mancais selecionados ao acaso são os seguintes (em mm):
+```{r}
+diametro <- c(50.001, 50.002, 49.998, 50.006, 50.005, 49.996, 50.003, 50.004)
+```
+
+ - a) Calcule a média amostral.
+```{r}
+mean(diametro)
+```
+
+-  b) Calcule o desvio-padrão amostral.
+
+```{r}
+sd(diametro)
+```
+<br>
+
+#### 2) O tempo de vida até falhar em horas de um componente eletrônico sujeito a um teste de durabilidade acelerado é mostrado abaixo para uma amostra com tamanho n = 40. Para acelerar a falha no teste, as unidades experimentais são testadas sob uma temperatura elevada.
+```{r}
+tempo <- c(127, 125, 131, 124, 129, 121, 142, 151, 160, 125,
+           124, 123, 120, 119, 128, 133, 137, 124, 142, 123,
+           121, 136, 140, 137, 125, 124, 128, 129, 130, 122,
+           118, 131, 125, 133, 141, 125, 140, 132, 129, 126)
+```
+- a) Calcule a média amostral e o desvio-padrão.
+```{r}
+mean(tempo)
+sd(tempo)
+```
+- b) Construa o histograma.
+```{r}
+hist(tempo)
+```
+- c) Ache a mediana e os quartis. 
+```{r}
+quantile(tempo,c(0.25,0.50,0.75))
+```
+<br>
+
+#### 3) Os dados abaixo são leituras do rendimento de um processo químico em dias sucessivos (leia da esquerda para a direita). Faça o histograma dos dados, comente o aspecto do histograma e verifique se o histograma lembra alguma distribuição de probabilidade conhecida.
+```{r}
+dados <- c(94.1, 87.3, 94.1, 92.4, 84.6, 85.4, 93.2, 84.1, 92.1, 90.6,
+           83.6, 86.6, 90.6, 90.1, 96.4, 89.1, 85.4, 91.7, 91.4, 95.2,
+           88.2, 88.8, 89.7, 87.5, 88.2, 86.1, 86.4, 86.4, 87.6, 84.2,
+           86.1, 94.3, 85.0, 85.1, 85.1, 85.1, 95.1, 93.2, 84.9, 84.0,
+           89.6, 90.5, 90.0, 86.7, 87.3, 93.7, 90.0, 95.6, 92.4, 83.0,
+           89.6, 87.7, 90.1, 88.3, 87.3, 95.3, 90.3, 90.6, 94.3, 84.1,
+           86.6, 94.1, 93.1, 89.4, 97.3, 83.7, 91.2, 97.8, 94.6, 88.6,
+           96.8, 82.9, 86.1, 93.1, 96.3, 84.1, 94.4, 87.3, 90.4, 86.4,
+           94.7, 82.6, 96.1, 86.4, 89.1, 87.6, 91.1, 83.1, 98.0, 84.5)
+
+hist(dados)
+```
+
+
+```{r}
+hist(dados, probability = TRUE, col = "gray", border = "black", main = "Histograma com densidade")
+lines(density(dados), col = "blue", lwd = 2)  # Adiciona a curva de densidade estimada
+```
+
+
