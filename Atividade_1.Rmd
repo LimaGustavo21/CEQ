@@ -1,0 +1,122 @@
+---
+title: "Lista 1 - Controle Estatístico de Qualidade"
+output: html_document
+---
+
+# Qualidade, Produtividade, Competitividade e os 14 Pontos de Deming
+
+### 1) É tradicional, no meio industrial, se afirmar que Qualidade e Produtividade são incompatíveis. Você concorda com isto?
+
+-   Não! O pensamento de incompatibilidade entre Qualidade e Produtivo se da pela mentalidade de atrasar a produção para realizar estudos, o que não é verdade. Com o aumento de qualidade no processo, você reduz erros e aumenta a eficiência da operação.
+
+### 2) O que é Qualidade?
+
+-   Qualidade é um índice de satisfação que o uso do produto irá proporcionar ao consumidor
+
+### 3) Quem dominou o mercado internacional de manufaturados desde o século passado até a crise dos anos 30?
+
+-   As companhias inglesas
+
+### 4) Qual país teve, na prática, o monopólio dos mercados mundiais nas décadas de 50 e 60?
+
+-   Estados Unidos.
+
+### 5) A partir do final da década de 60 surgiu uma competição crescente entre as industrias americanas e japonesas (além da européia e às do 3º mundo em menor escala) pelos mercados mundiais, com razoável sucesso para a indústria japonesa. A que se pode atribuir o sucesso das companhias japonesas no mercado internacional?
+
+-   O sucesso das empresas Japonesas se teve pela adoção de práticas de qualidade e produtividade aprimoradas através dos métodos de controle de qualidade propostos por Deming. Melhorias contínuas, redução de desperdícios e comprometimento com a satisfação do cliente foram os principais pilares deste desenvolvimento.
+
+### 6) Uma vez que não há processo de produção perfeito, como é possível o aperfeiçoamento do processo?
+
+-   O aperfeiçoamento contínuo de processos é possível por meio da análise e do controle da variabilidade do processo. A melhoria deve ser incremental e focada na eliminação de falhas e desperdícios.
+
+### 7) Você considera os Métodos estatísticos instrumentos indicados para manter um certo nível de qualidade no processo (ou para assegurar um nível máximo de defeituosos)? porque?
+
+-   Sim, os métodos estatísticos são importantes para o monitoramento e controle de variabilidade na qualidade do processo. Através de análises estatísticas, é possível identificar causas raízes de defeitos na produção.
+
+### 8) Qual a finalidade fundamental do Controle de Qualidade numa empresa
+
+-   A finalidade do controle de qualidade em uma empresa é garantir padrões consistentes estabelecidos sob critérios de um bom funcionamento da produção.
+
+### 9) Como todo processo tem variabilidade (podendo ser para mais ou para menos que um certo nível), então basta o operador fazer os ajustes necessários na maquina que o problema da qualidade fica resolvido. você concorda com isto? O que se deve fazer para controlar um processo?
+
+-   Não, apenas ajustes não são o suficiente. É muito importante realizar estudos para identificar causas raízes, para evitar reincidência da variação expressiva.
+
+### 10) Quando os métodos estatísticos foram introduzidos no Japão?
+
+-   Os métodos estatísticos foram introduzidos no Japão nas décadas de 1950 e 1960.
+
+### 11) Qual o problema fundamental de uma empresa industrial para assegurar a sua posição no mercado?
+
+-   Garantir a qualidade consistente de seus produtos, enquanto mantém os custos baixos e atende às necessidades dos clientes.
+
+### 12) Qual a única maneira de se alcançar um aumento substancial na produtividade?
+
+-   Melhorar os processos de produção por meio da eliminação de desperdícios, otimização de recursos, automação, e capacitação contínua dos funcionários
+
+### 13) Você acha que lucro a curto prazo se constitua num índice de competência?
+
+-   Não, a competência deve ser medida pela capacidade da empresa em inovar, manter a qualidade e satisfazer seus clientes ao longo do tempo. Resultados a curto prazo não possui consistência substancial para o negócio.
+
+### 14) O primeiro princípio de Deming afirma que a empresa deve "criar constância de propósitos para a melhoria do produto e do serviço". Para que se deve fazer isto?
+
+-   A constância de propósitos ajuda a direcionar todos os esforços da empresa para melhorias contínuas e inovação, garantindo a competitividade e satisfação do cliente a longo prazo.
+
+### 15) O segundo princípio de Deming manda que se "adote a nova filosofia", o que você entende por isto?
+
+-   Criar uma mentalidade de melhoria contínua nos processos da empresa através do controlo de qualidade.
+
+### 16) O que você acha da inspeção em massa?
+
+-   a inspeção em massa não é o metodo mais eficiente de se trabalhar, caso o processo tenha muitas problemas de qualidade, pode se gerar muitos disperdícios e retrabalho no processo.
+
+### 17) Você acha que é sempre muito bom se comprar pelo menor preço? Porque?
+
+-   Nem sempre. As vezes o custo melhor acaba saindo mais caro pela falta de qualidade no produto.
+
+### 18) Porque se deve procurar melhorar o sistema de produção e do serviço constantemente?
+
+-   A melhoria constante é necessária para manter a competitividade no mercado. Atualizações e adaptações de técnologias atualizadas são fatores importantes em um mundo competitivo.
+
+### 19) Uma empresa deve manter um programa de treinamento para os seus operários? Porque?
+
+-   Sim, para garantir que seus funcionários estejam atualizados com as melhores práticas, novas tecnologias e processos. Isso melhora a eficiência e a qualidade do trabalho.
+
+### 20) Qual o papel da Administração, chefiar ou liderar os trabalhadores, porque?
+
+-   O papel da administração é liderar. A liderança é mais eficaz do que a simples supervisão, pois cria um ambiente de colaboração e comprometimento, ao invés de um ambiente de controle rígido.
+
+### 21) Porque o trabalhador deve fazer as suas tarefas sem medo? Você concorda com isto? Porque?
+
+-   Sim, um ambiente sem medo estimula a criatividade, o aprendizado e o engajamento dos funcionários. A empresa acaba se beneficiando com inovação e eficiência.
+
+### 22) Em muitas companhias os Departamentos funcionam como entidades independentes. Isto é benéfico para a empresa? Porque?
+
+-   Não é benéfico. Para que uma companhia trabalhe de forma eficiente, é importante que haja comunicação e cooperação entre os departamentos, eles são todos relacionados pelo mesmo proposito. Trabalhar de forma independente não é uma boa prática.
+
+### 23) O que você acha das metas quantitativas (objetivos numéricos)?
+
+-   São importantes para mensurar progresso e desempenho, mas devem ser estabelecidas e analisadas com cautela. As metas devem ser definidas de forma realista e alinhada com os objetivos estratégicos da empresa.
+
+### 24) Um operário que se orgulha do seu trabalho dá o melhor de si para a empresa. Você concorda com isto?
+
+-   Quando as pessoas se sentem orgulhosos do que fazem, eles tendem a ser mais comprometidos e motivados a entregar um trabalho de alta qualidade, sentem mais vontade de exercer suas respectivas atividades.
+
+### 25) Como os processos de produção mudam rapidamente, a empresa deve se preparar constantemente para transformações. Como isto deve ser feito?
+
+-   A empresa deve sempre estar atenta ao mercado de sua área, se atualizando sobre tecnologias e inovações e estudando novas melhorias para os seus processos.
+
+### 26) Faça um resumo do chamado ciclo de Shewhart.
+
+-   O ciclo de Shewhart, também conhecido como PDCA, é composto por quatro etapas, sendo elas :
+
+    <div>
+
+    -   Planejar : Identificar o problema e planejar ações corretivas.
+
+    -   Executar: Implementar as mudanças ou melhorias propostas.
+
+    -   Verificar : Avaliar os resultados das mudanças implementadas.
+
+    -   Agir : Se positivos, consolidar as mudanças. Caso contrário, realizar novos ajustes.
+
+    </div>
